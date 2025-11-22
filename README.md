@@ -7,6 +7,6 @@ python app.py
 run file
 
 Example Interation Output:
-How much money do you save per week? 100
-You are on track to save $5200.0 in a year
+How much money do you save per week? 1250.56
+You are on track to save $65,029.12 in a year
 
