@@ -15,4 +15,4 @@ except ValueError:
 yearly_savings = savings * 52
 
 # Display final output
-print(f"You are on track to save ${yearly_savings} in a year")
+print(f"You are on track to save ${yearly_savings:,.2f} in a year")
