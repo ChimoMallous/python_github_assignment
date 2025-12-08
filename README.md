@@ -16,5 +16,5 @@ A simple Python program that calculates a user's total yearly savings based on t
 3. From the project folder, run:
 
 ```bash
-python main.py
+python app.py
 ```
