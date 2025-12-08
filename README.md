@@ -1,12 +1,20 @@
-Yearly Savings Calculator
+# Python GitHub Assignment
 
-This program takes the users input of their weekly savings and calculates the amount they will save in a year if they save the same amount each week.
+A simple Python program that calculates a user's total yearly savings based on their weekly savings amount.
 
-How to run:
-python app.py
-run file
+## What it Does
 
-Example Interation Output:
-How much money do you save per week? 1250.56
-You are on track to save $65,029.12 in a year
+- Prompts the user to enter how much money they save per week  
+- Validates that the input is a numeric value  
+- Calculates total yearly savings (weekly savings × 52 weeks)  
+- Displays the result in a formatted output  
 
+## How to Run
+
+1. Make sure you have Python installed (Python 3.x recommended)  
+2. Clone this repository  
+3. From the project folder, run:
+
+```bash
+python main.py
+```
